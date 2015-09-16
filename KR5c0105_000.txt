@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:24:12.370598
+#+TITLE: 道德真經藏室篡微手鈔
+#+PROPERTY: DZID  DZ0716
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，13—727 二卷（上卷原缺） 洞神部玉訣類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
